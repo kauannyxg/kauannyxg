@@ -12,14 +12,6 @@
   HTML,+CSS+e+JavaScript"
   />
 </p>
-
----
-
-## 👩‍💻 Sobre mim
-
-Sou estudante de **Front-End**, com interesse em tecnologia, experiência do usuário e comunicação digital.  
-Tenho formação técnica em **Administração e Recursos Humanos** e estou em busca de oportunidades como **estágio ou jovem aprendiz**, onde eu possa aprender e evoluir profissionalmente.
-
 ---
 
 ## 🛠️ Tecnologias
